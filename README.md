@@ -7,19 +7,8 @@
 The 1 of 2 tool is available online for users to develop and publish new dichotomous keys, view the keys of other users, and make edits on editable existing keys. 
 
 ```markdown
-![Image](
+![Image](https://github.com/1of2/1of2/blob/master/1of2.png)
 
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
