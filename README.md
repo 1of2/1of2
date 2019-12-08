@@ -1,14 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to 1 of 2. 
 
-You can use the [editor on GitHub](https://github.com/1of2/1of2/edit/master/README.md) to maintain and preview the content for your website in Markdown.
+**1 of 2** is a site for viewing and creating dichotomous keys for just about anything. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The app
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The 1 of 2 tool is available online for users to develop and publish new dichotomous keys, view the keys of other users, and make edits on editable existing keys. 
 
 ```markdown
+![Image](
+
 Syntax highlighted code block
 
 # Header 1
