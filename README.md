@@ -1,25 +1,10 @@
 ## Welcome to 1 of 2. 
-
+![Image](https://github.com/1of2/1of2/blob/master/1of2.png)
 **1 of 2** is a site for viewing and creating dichotomous keys for just about anything. 
 
 ### The app
 
 The 1 of 2 tool is available online for users to develop and publish new dichotomous keys, view the keys of other users, and make edits on editable existing keys. 
-
-```markdown
-![Image](https://github.com/1of2/1of2/blob/master/1of2.png)
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1of2/1of2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
